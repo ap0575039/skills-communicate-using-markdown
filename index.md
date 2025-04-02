@@ -1,9 +1,9 @@
-# Este é um arquivo .md de teste
-## E este é um título _menor_
-### E este menor **ainda**
+# Este é um arquivo .md de estudo
+### E este é um título _menor_
+##### E este menor _ainda_
 
 Abaixo a imagem do Heisencat:
-![Image of Heisencat](https://octodex.github.com/images/heisencat.png)
+![Imagem do Heisencat](https://octodex.github.com/images/heisencat.png)
 
 Abaixo um pouco de código em C:
 ``` c
@@ -13,3 +13,6 @@ int main() {
   return 0;
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
